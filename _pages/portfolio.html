@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+This portfolio is currently in progress. New projects and selected work will be added soon.
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+

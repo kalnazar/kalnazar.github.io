@@ -1,0 +1,30 @@
+{
+  "basics": {
+    "name": "Sayat Kalnazar",
+    "email": "kalnazar.sayat@gmail.com",
+    "phone": "",
+    "website": "https://kalnazar.github.io/",
+    "summary": "R&D Software Engineer and Doctoral Researcher specializing in secure communication systems, software engineering, and cryptology.",
+    "location": {"city": "Astana", "countryCode": "Kazakhstan"},
+    "profiles": [{"network": "LinkedIn", "username": "kalnazar", "url": "https://www.linkedin.com/in/kalnazar/"}]
+  },
+  "work": [
+    {"position": "Software Engineer & Researcher", "company": "Scientific & Technological Center", "startDate": "January 2024", "endDate": "Present", "summary": "Develop and research software related to secure communication systems; apply software architecture design and clean code practices.", "highlights": ["Contribute to technical research and development in a scientific and technological environment."]},
+    {"position": "Practice Teacher, Software Design Patterns", "company": "Astana IT University", "startDate": "September 2023", "endDate": "December 2023", "summary": "Taught practical classes on software design patterns for six groups of approximately 20 students each.", "highlights": ["Explained object-oriented design principles and common design patterns.", "Supported students with programming assignments and technical problem-solving."]},
+    {"position": "English Teacher", "company": "General Educational Center", "startDate": "February 2023", "endDate": "April 2023", "summary": "Delivered General English lessons for children aged 7-10 at A1-A2 levels."},
+    {"position": "Front-end Developer", "company": "AG Tech", "startDate": "May 2022", "endDate": "June 2022", "summary": "Contributed to front-end development using Angular."}
+  ],
+  "education": [
+    {"institution": "L.N. Gumilyov Eurasian National University", "area": "PhD in Cryptology", "endDate": "Expected 2029", "gpa": null, "courses": ["Research and Development of Post-Quantum Privacy-Preserving Credentials for Digital Identity Wallets"]},
+    {"institution": "International Information Technology University", "area": "Master of Software Engineering", "endDate": "July 2025", "gpa": "3.43", "courses": []},
+    {"institution": "Astana IT University", "area": "Bachelor of Software Engineering", "endDate": "June 2023", "gpa": "3.2", "courses": []}
+  ],
+  "skills": [{"name": "Technical skills", "keywords": ["Building secure systems", "Java", "Spring Boot", "Docker", "Kafka", "Microservices", "JSON", "gRPC", "Research skills"]}],
+  "languages": [{"language": "English", "fluency": "C1 (IELTS 7.0)"}, {"language": "Russian", "fluency": "Fluent"}, {"language": "Kazakh", "fluency": "Native"}],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
